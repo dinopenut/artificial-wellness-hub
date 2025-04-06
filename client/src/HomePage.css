@@ -1,0 +1,20 @@
+.button {
+    padding: 15px 25px;
+    font-size: 1rem;
+    background: #287fb8;
+    color: #ffffffdd;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.4s ease;
+  }
+  
+  .button:hover {
+    background-color: #539dbd;
+  }
+
+  body{
+    font-family: 'Oswald', sans-serif;
+  }
+
+  
